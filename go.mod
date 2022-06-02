@@ -1,4 +1,4 @@
-module github.com/hh9net/chatgo/v2
+module github.com/hh9net/chartgo/v2
 
 go 1.15
 
