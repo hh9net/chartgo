@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/wcharczuk/go-chart/v2"
+	"github.com/hh9net/chartgo/v2"
 )
 
 func main() {

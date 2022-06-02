@@ -3,7 +3,7 @@ package matrix
 import (
 	"testing"
 
-	"github.com/wcharczuk/go-chart/v2/testutil"
+	"github.com/hh9net/chartgo/v2/testutil"
 )
 
 func TestPoly(t *testing.T) {

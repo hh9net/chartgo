@@ -3,10 +3,11 @@ package main
 //go:generate go run main.go
 
 import (
+	chart "github.com/hh9net/chatgo/v2"
 	"os"
 
-	"github.com/wcharczuk/go-chart/v2"
-	"github.com/wcharczuk/go-chart/v2/drawing"
+	"github.com/hh9net/chartgo/v2"
+	"github.com/hh9net/chartgo/v2/drawing"
 )
 
 func main() {
